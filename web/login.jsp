@@ -6,11 +6,10 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ include file="header.jsp"%>
 <html>
 <head>
-    <title>Test</title>
-    <link rel="stylesheet" href="Resource/uikit-2.25.0/css/uikit.css">
-    <script src="Resource/uikit-2.25.0/js/uikit.js"></script>
+    <title>Login</title>
 </head>
 <body class="uk-height-1-1">
 <div id="LoginArea" class="uk-vertical-align uk-text-center uk-height-1-1" >
