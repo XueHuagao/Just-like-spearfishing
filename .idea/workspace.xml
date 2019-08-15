@@ -7,18 +7,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442a9a52-c601-48a3-bde0-e083f9059871" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Controllers.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Gateway.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/MainDisplay.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Navigator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/uikit-2.25.0/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Controllers.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Gateway.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/MainDisplay.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Navigator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Resource/uikit-2.25.0/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/loadhtml.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CloudPlatform.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudPlatform.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/uikit-2.25.0/css/uikit.gradient.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/Resource/uikit-2.25.0/css/uikit.gradient.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/layuitest.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CloudPlatform_war_exploded/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Resource/uikit-2.25.0/css/uikit.gradient.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/Resource/uikit-2.25.0/css/uikit.gradient.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/layuitest.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +69,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,18 +84,22 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1P8IOcEb8ygtKtMxp6AEfLRhLAk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/Resource" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Just like spearfishing\web\Resource" />
       <recent name="D:\Just like spearfishing\web\WEB-INF\lib" />
     </key>
   </component>
@@ -76,6 +117,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/CloudPlatform/MainDisplay.jsp" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
@@ -161,6 +203,10 @@
       <updated>1565249265817</updated>
       <workItem from="1565249267272" duration="15303000" />
       <workItem from="1565336347613" duration="3828000" />
+      <workItem from="1565570344489" duration="10497000" />
+      <workItem from="1565592907787" duration="48000" />
+      <workItem from="1565593605723" duration="6772000" />
+      <workItem from="1565600604692" duration="25832000" />
     </task>
     <servers />
   </component>
@@ -172,7 +218,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
